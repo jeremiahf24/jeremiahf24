@@ -2,12 +2,12 @@
 
 I’m an Electrical Engineer turned Data Scientist with a passion for solving complex problems at the intersection of hardware and data.
 
-### 👩‍🔧 About Me
-🔋 Electrical Engineer with hands-on experience in circuit design, embedded systems, and control systems.
-📊 Data Scientist skilled in Python, R, SQL, and MATLAB.
-🤖 AI Engineer focused on predictive modeling, neural networks, and edge computing.
-🌱 Currently learning edge AI and IoT for data-driven applications.
-🚀 Fascinated by the potential of data to drive innovative solutions in cyber, energy, healthcare, and automation.
+### ⚡ 🡆 📊 About Me
+🔋 Electrical Engineer with hands-on experience in circuit design, embedded systems, and control systems.<br>
+📊 Data Scientist skilled in Python, R, SQL, and MATLAB.<br>
+🤖 AI Engineer focused on predictive modeling, neural networks, and edge computing.<br>
+🌱 Currently learning edge AI and IoT for data-driven applications.<br>
+🚀 Fascinated by the potential of data to drive innovative solutions in cyber, energy, healthcare, and automation.<br>
 
 ### 🛠️ **Tech Stack**
 **Languages**  
