@@ -21,7 +21,6 @@ I’m an Electrical Engineer turned Data Scientist with a passion for solving co
 - **Azure**: ☁️  
 - **Google Colab**: ☁️  
 - **Jupyter Notebook**: 📓  
-- **PyCharm**: 💻  
 - **Microsoft VS Code**: 💻  
 - **GitHub Desktop**: 🌐  
 
