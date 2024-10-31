@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello 👋, I'm Jeremiah
 
-<!--
-**jeremiahf24/jeremiahf24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Electrical Engineer turned Data Scientist with a passion for solving complex problems at the intersection of hardware and data.
 
-Here are some ideas to get you started:
+### 👩‍🔧 About Me
+🔋 Electrical Engineer with hands-on experience in circuit design, embedded systems, and control systems.
+📊 Data Scientist skilled in Python, R, SQL, and MATLAB.
+🤖 AI Engineer focused on predictive modeling, neural networks, and edge computing.
+🌱 Currently learning edge AI and IoT for data-driven applications.
+🚀 Fascinated by the potential of data to drive innovative solutions in cyber, energy, healthcare, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Stack**
+**Languages**  
+- **Python**: 🐍  
+- **MATLAB**: 📊  
+- **R**: 📈  
+- **SQL**: 🗄️  
+
+**Data Science Platforms**  
+- **AWS SageMaker**: ☁️  
+- **Azure**: ☁️  
+- **Google Colab**: ☁️  
+- **Jupyter Notebook**: 📓  
+- **PyCharm**: 💻  
+- **Microsoft VS Code**: 💻  
+- **GitHub Desktop**: 🌐  
+
+**Visualization**  
+- **Tableau**: 📊  
+- **Power BI**: 📈  
+
+**Frameworks & Libraries**  
+- **TensorFlow**: 🤖  
+- **scikit-learn**: 📚  
+- **Pandas**: 📊  
+
+**Hardware & Tools**  
+- **Microcontrollers**: ⚙️ Arduino  
+- **PCB Design**: 🛠️ Eagle  
+- **Simulation**: 🔍 SPICE, Simulink  
